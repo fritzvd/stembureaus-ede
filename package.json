@@ -1,0 +1,20 @@
+{
+  "name": "stembureaus-ede",
+  "version": "1.0.0",
+  "description": "Stemmen doe je in ede hier: http://fritzvd.com/stembureaus-ede",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-locations": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fritzvd/stembureaus-ede.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/fritzvd/stembureaus-ede/issues"
+  },
+  "homepage": "https://github.com/fritzvd/stembureaus-ede#readme"
+}
